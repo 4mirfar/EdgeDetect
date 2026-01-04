@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+canny/*
+.DS_Store
+blackwhite.jpg
+image.jpeg
